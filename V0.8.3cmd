@@ -1,7 +1,4 @@
-# Preset was created in ADB AppControl 1.6.5
-# Total applications: 83
-# 8/24/2021 7:04 PM
-# Samsung SM-A315G Deleted applications
+adb shell
 pm uninstall -k --user 0 com.samsung.aasaservice
 pm uninstall -k --user 0 com.google.android.projection.gearhead
 pm uninstall -k --user 0 com.google.android.ext.services
