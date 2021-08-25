@@ -16,14 +16,14 @@ pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
 pm uninstall -k --user 0 com.samsung.android.app.soundpicker
 pm uninstall -k --user 0 com.samsung.storyservice
 pm uninstall -k --user 0 com.sec.factory.cameralyzer
-pm uninstall -k --user 0 com.samsung.android.sdm.config
 pm uninstall -k --user 0 com.samsung.android.providers.carrier
 pm uninstall -k --user 0 com.samsung.android.app.omcagent
+pm uninstall -k --user 0 com.samsung.android.sdm.config
 pm uninstall -k --user 0 com.sec.android.soagent
 pm uninstall -k --user 0 com.wssyncmldm
 pm uninstall -k --user 0 com.android.carrierdefaultapp
-pm uninstall -k --user 0 com.samsung.android.knox.containeragent
 pm uninstall -k --user 0 com.samsung.android.knox.containercore
+pm uninstall -k --user 0 com.samsung.android.knox.containeragent
 pm uninstall -k --user 0 com.samsung.android.app.sharelive
 pm uninstall -k --user 0 com.samsung.android.aware.service
 pm uninstall -k --user 0 com.samsung.android.mobileservice
@@ -128,4 +128,3 @@ pm uninstall -k --user 0 com.samsung.android.ardrawing
 pm uninstall -k --user 0 com.samsung.android.app.watchmanagerstub
 pm uninstall -k --user 0 com.sec.unifiedwfc
 pm uninstall -k --user 0 com.samsung.android.allshare.service.fileshare
-pm uninstall -k --user 0 com.sec.android.app.wlantest
