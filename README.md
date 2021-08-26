@@ -23,5 +23,9 @@
     * Scan: ok
     * Payment: Yes.
     * LTE,4g,3g: ok
-    *
+    * Data Usage: ok
+    * Sim manager: ok
+    * Airplane mode: ok
+    * Internet Tethering: ok
+    * Wifi sharing: ok
 
