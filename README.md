@@ -7,7 +7,7 @@
 * Google Test ok.
 * Chrome Test ok.
 * Gmail Test ok.
-* Google Map ... Testing
+* Google Map ok.
 * Phone ok.
 * CH Play ok.
 * Facebook, Messenger ok.
@@ -28,4 +28,12 @@
     * Airplane mode: ok
     * Internet Tethering: ok
     * Wifi sharing: ok
+    * VPN (1.1.1.1 WARP): ok.
+    * Print service: Unninstall Default Print Service, but You can install another Print Service to use.
+    * DNS Custom: Yes
+    * Sound settings: Yes
+    * Picker Alarm: No (But you can reinstall via "soundpicker")
+    * Dobly Atmos: Yes
+    * All other function good.
+    * 
 
