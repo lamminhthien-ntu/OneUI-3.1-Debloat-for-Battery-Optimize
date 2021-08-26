@@ -4,7 +4,7 @@
 # How to use Code:
  * https://www.youtube.com/watch?v=MIUB2myx7Tw&t=362s Thanks to channel: Viettablet 
  * Open File V1.6.9 with Raw
-# At the Final Version: I will not debloat more, or change any code, because it will lead my phone to unconvinience situition, but I promised, I checked carefully every application in phone. Only mistake is missing alarm call sound picker for Incoming Calll:
+# At the Final Version: I will not debloat more, or change any code, because it will lead my phone to unconvinience situition, but I promised, I checked carefully every application in phone. Only mistake is missing alarm call sound picker for Incoming Calll and multisound for Sound assistant and Hearing Adjust:
  * Use Find (CTRL+F) with keyword (soundpicker) and using command: pm install-existing <package name> to re install it again.
  * I'm sorry for this
 # OneUI 3.1 Debloat Packages List
