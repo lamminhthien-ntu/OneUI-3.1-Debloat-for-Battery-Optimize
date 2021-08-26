@@ -1,1 +1,2 @@
 pm uninstall -k --user 0 com.google.android.packageinstaller
+pm uninstall -k --user 0 com.android.provider.settings
