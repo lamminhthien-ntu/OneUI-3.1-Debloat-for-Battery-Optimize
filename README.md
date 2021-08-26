@@ -46,5 +46,31 @@
 * Screen orientation ok.
 * Adaptive brightness ok.
 * SIM Selection for Call and Mobile Network ok.
+* Voice Record ok
 
+
+# Performance Review (Comparision after and before debloat):
+* Reduce boot times. yes (fast than 10 second)
+* Fast Open System App:
+ * Phone: Open Time reduce 1 second, Setting open less than 0.3 second
+ * Message: Open time reduce 2 second, Open and message fast, 
+ * Galarey open very fast
+ * Google open very fast, swich between many layout quickly.
+ * Google Speak microphone icon appear very quickly
+ * CH Play very very fast, choose app to download very fast, change category very fast, search app very fast, App manager very fast
+ * Chrome improve startup time, Loading news fast, load amazon web fast, load espn.com improved time, play video on espn.com still slow, but fast and acceptable
+ * Gmail reduce time a bit.
+ * Goolge Map loading very fast, all other function fast and big improved
+ * FAcebook loading very quickly, a big improved, all funciton fast and big improve
+ * Messenger, big improved.
+ * Callendar, big improved.
+ * Zing mp3: big improved
+ * Calculator: big improved
+ * Youtube: big improved.
+ * Soundcloud: big improved
+ * Zalo: big improved.
+ * Office: a bit improved.
+ * Device care: big improved time loading.
+ * Bilibili: Improved loading time, video thumbnail load faster
+# Advanced Performance Report (Comming Soon).
 
