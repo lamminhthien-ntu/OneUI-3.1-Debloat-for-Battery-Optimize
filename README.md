@@ -1,3 +1,6 @@
+# At the Final Version: I will not debloat more, or change any code, because it will lead my phone to unconvinience situition, but I promised, I checked carefully every application in phone. Only mistake is missing alarm call sound picker for Incoming Calll:
+ * Use Find (CTRL+F) with keyword (soundpicker) and using command: pm install-existing <package name> to re install it again.
+ * I'm sorry for this
 # OneUI 3.1 Debloat Packages List
 # Research by me and from XDA Forum
 # Aim to Make my phone responisbile quickly every touching, and Boot up feel faster than before
@@ -72,5 +75,7 @@
  * Office: a bit improved.
  * Device care: big improved time loading.
  * Bilibili: Improved loading time, video thumbnail load faster
-# Advanced Performance Report (Comming Soon).
+ * Pixiv: Improved loading time, picture load very fast than before
+# Final Conclusion: Using phone make me feeling very happy, touch and application respone, render smooth and ligntning fast. Alwesome more than The first time I'm using this phone. And advance review I'll write, when i have time
+# Advanced Performance Review (Comming Soon).
 
