@@ -35,5 +35,16 @@
     * Picker Alarm: No (But you can reinstall via "soundpicker")
     * Dobly Atmos: Yes
     * All other function good.
-    * 
+* Calendar ok.
+* Battery Saver ok
+* Night mode ok.
+* Restriction ok.
+* QR Camera Scan ok.
+* GPS function ok.
+* Alway On Display ok.
+* Torch ok.
+* Screen orientation ok.
+* Adaptive brightness ok.
+* SIM Selection for Call and Mobile Network ok.
+
 
