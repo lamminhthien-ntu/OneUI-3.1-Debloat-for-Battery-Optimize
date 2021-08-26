@@ -16,7 +16,12 @@
 * Clock ok.
 * Contact ok.
 * Settings :
-  ** Wifi List, Wifi Scan, Wifi connect, Wifi QR Code: ok.
-  ** Wifi Direct ok.
-  ** Bluetooth find ok., Bluetooth Connect ok.
+  * Wifi List, Wifi Scan, Wifi connect, Wifi QR Code: ok.
+  * Wifi Direct ok.
+  * Bluetooth find ok., Bluetooth Connect ok.
+  * NFC:
+    * Scan: ok
+    * Payment: Yes.
+    * LTE,4g,3g: ok
+    *
 
