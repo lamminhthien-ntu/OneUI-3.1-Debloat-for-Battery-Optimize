@@ -160,3 +160,4 @@ pm uninstall -k --user 0 com.samsung.android.app.watchmanagerstub
 pm uninstall -k --user 0 com.sec.unifiedwfc
 pm uninstall -k --user 0 com.samsung.android.allshare.service.fileshare
 pm uninstall -k --user 0 com.sec.android.app.wlantest
+pm uninstall -k --user 0 com.sec.bcservice
