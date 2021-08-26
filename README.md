@@ -19,6 +19,15 @@
 * Clock ok.
 * Contact ok.
 * Settings :
+  * Accessbility ok.
+  * Advanced Feautures ok
+  * Wallaper ok
+  * Screen setting ok.
+  * Application manager ok.
+  * Permission Controller ok.
+  * Fingerprint ok
+  * Lockscreen option ok.
+  * Notification setting ok.
   * Wifi List, Wifi Scan, Wifi connect, Wifi QR Code: ok.
   * Wifi Direct ok.
   * Bluetooth find ok., Bluetooth Connect ok.
