@@ -154,3 +154,8 @@ pm uninstall -k --user 0 com.samsung.android.ardrawing
 pm uninstall -k --user 0 com.samsung.android.app.watchmanagerstub
 pm uninstall -k --user 0 com.sec.unifiedwfc
 pm uninstall -k --user 0 com.sec.android.app.wlantest
+pm uninstall --user 0 com.skms.android.agent
+pm uninstall --user 0 com.samsung.android.appseparation
+pm uninstall --user 0 com.sec.location.nfwlocationprivacy
+
+
