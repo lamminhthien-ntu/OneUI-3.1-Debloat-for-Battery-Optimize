@@ -95,4 +95,7 @@
  * Pixiv: Improved loading time, picture load very fast than before
 # Final Conclusion: Using phone make me feeling very happy, touch and application respone, render smooth and ligntning fast. Alwesome more than The first time I'm using this phone. And advance review I'll write, when i have time
 # Advanced Performance Review (Comming Soon).
-
+# Moba Game Arena Of Valor Test:
+ * Setting High Except HD mode unable to set
+ * High Frame Rate Enable via * Unlock File*
+    --> Result: Doesn't meet fps drop annymore especially when combat  (Test with 22.75 minutes Ranking Diamond IV battle)
