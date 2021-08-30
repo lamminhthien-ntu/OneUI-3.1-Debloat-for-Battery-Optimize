@@ -1,5 +1,7 @@
 # Author: Lâm Minh Thiện
 # Country: Vietnam
+# Tested Device: Galaxy A31 (SM-A315G XXV)
+# One UI 3.1 (  May be One UI 3.1 Core Version Can use this code)
 # Email Contact: minhthienmap@gmail.com
 # How to use Code:
  * https://www.youtube.com/watch?v=MIUB2myx7Tw&t=362s Thanks to channel: Viettablet 
