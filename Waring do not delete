@@ -1,1 +1,33 @@
+#WAring delete these packages below will result to Problem in your phone (Samsung Android 11 Devices)
+ com.android.carrierconfig (Break LTE,3G)
+ com.android.provider.setting (Bootloop)
+com.android.wifi.resources (Bootloop)
 com.google.android.packageinstaller  (Bootloop)
+com.android.providers.settings (Bootloop)
+com.android.providers.calendar (Break Calendar)
+com.android.providers.downloads (Break download function)
+com.android.providers.downloads.ui (Break download icon)
+com.android.providers.telephony (Break call function)
+com.android.providers.media (Break function to access Files, Images, ...)
+com.android.externalstorage (Break SD Card loader)
+com.android.location.fused (Break GPS Function)
+com.google.android.providers.media.module (Break function to access Media Files)
+com.google.android.gsf (Break Google Service, Google App,...)
+com.google.android.modulemetadata (Break Google Play Store)
+com.android.storagemanager (Break Function to access Files,...)
+com.android.providers.telephony (Cause bootloop)
+com.google.android.networkstack (Appera on android 11, Like OSI, TCP/IP network, delete it will break wifi ).
+com.android.server.telecom (Unable to make call or recive call)
+com.google.android.networkstack.tethering (Break Network hotspot function)
+com.google.android.networkstack.tethering.overlay (Break Network hotspot function)
+com.samsung.android.app.telephonyui (Break telephone function)
+com.samsung.clipboardsaveservice (Break clipboard)
+com.samsung.android.biometrics.app.setting (Break biometrics)
+com.android.providers.telephony
+com.android.server.telecom
+com.android.phone
+com.samsung.android.provider.filterprovider (Break camera app)
+com.samsung.android.providers.media (Break media files access)
+com.google.android.syncadapters.calendar  (Sync callendar note with google account)
+ com.google.android.syncadapters.contacts (Sync Contacts with google account)
+
