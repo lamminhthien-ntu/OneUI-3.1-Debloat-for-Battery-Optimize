@@ -30,4 +30,5 @@ com.samsung.android.provider.filterprovider (Break camera app)
 com.samsung.android.providers.media (Break media files access)
 com.google.android.syncadapters.calendar  (Sync callendar note with google account)
  com.google.android.syncadapters.contacts (Sync Contacts with google account)
+ com.samsung.android.app.aodservice  (Break Clock screen, cannot seen notification on lockscreen)
 
